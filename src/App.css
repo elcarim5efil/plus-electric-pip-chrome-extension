@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width: 600px;
+  height: 900px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.list_img {
+  width: 240px;
+  margin: 10px;
+  cursor: pointer;
+}
